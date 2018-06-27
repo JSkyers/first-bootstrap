@@ -1,0 +1,8 @@
+.mugshot {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.circlepic {
+  border-radius: 100%;
+}
